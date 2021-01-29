@@ -1,2 +1,2 @@
 # BitcoinTodayPractice
-TD n°2 Prog Blockchain | Malcolm ETOUNDI - Tanguy Laucournet
+TD n°2 Prog Blockchain | Malcolm ETOUNDI - Tanguy LAUCOURNET
